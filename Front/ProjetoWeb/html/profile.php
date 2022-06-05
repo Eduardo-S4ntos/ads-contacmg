@@ -82,7 +82,7 @@
     <div class="sidebar-content">
         <ul class="link-section">                
             <li>
-                <a href="order-history.html">
+                <a href="#">
                     <i class="iconly-Document icli"></i>
                     <div class="content">
                         <h4>Histórico</h4>
@@ -91,7 +91,7 @@
                 </a>
             </li>
             <li>
-                <a href="wishlist.html">
+                <a href="wishlist.php">
                     <i class="iconly-Heart icli"></i>
                     <div class="content">
                         <h4>Favoritos</h4>

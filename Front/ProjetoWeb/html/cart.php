@@ -448,7 +448,7 @@
             <div class="bottom-cart-panel">
                 <div class="row">
                     <div class="col-7">
-                        <a href="wishlist.html" class="title-color">MOVE TO WISHLIST</a>
+                        <a href="wishlist.php" class="title-color">MOVE TO WISHLIST</a>
                     </div>
                     <div class="col-5">
                         <a href="#" class="theme-color">REMOVE</a>

@@ -78,7 +78,7 @@
         </a>
       </li>
       <li>
-        <a href="#">
+        <a href="wishlist.php">
           <div class="icon">
             <i class="iconly-Heart icli"></i>
             <i class="iconly-Heart icbo"></i>
