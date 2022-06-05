@@ -10,7 +10,7 @@
     <meta name="author" content="Multikart">
     <link rel="manifest" href="manifest.json">
     <link rel="icon" href="assets/images/favicon.png" type="image/x-icon" />
-    <title>Multikart PWA App</title>
+    <title>Favoritos</title>
     <link rel="icon" href="assets/images/favicon.png" type="image/x-icon" />
     <link rel="apple-touch-icon" href="assets/images/favicon.png">
     <meta name="theme-color" content="#ff4c3b" />
@@ -55,7 +55,7 @@
             <a href="index.php">
                 <i class="iconly-Arrow-Left icli"></i>
                 <div class="content">
-                    <h2>Your Wishlist (3)</h2>
+                    <h2>Sua lista de desejos</h2>
                 </div>
             </a>
         </div>
@@ -74,19 +74,19 @@
     <section class="cart-section pt-0 top-space section-b-space">
         <div class="cart-box px-15">
             <a href="product.html" class="cart-img">
-                <img src="assets/images/products/1.jpg" class="img-fluid" alt="">
+                <img src="assets/images/home-slider/slide2.jpg" class="img-fluid" alt="">
             </a>
             <div class="cart-content">
                 <a href="product.html">
-                    <h4>Pink Hoodie t-shirt full </h4>
+                    <h4>Serviço de limpeza</h4>
                 </a>
                 <h5 class="content-color">by Mango</h5>
                 <div class="price">
-                    <h4>$32.00 <del>$35.00</del><span>20%</span></h4>
+                    <h4>R$80.00 <del>R$100.00</del><span>20%</span></h4>
                 </div>
                 <div class="cart-option">
-                    <h5 data-bs-toggle="offcanvas" data-bs-target="#removecart"><i class="iconly-Buy icli"></i> Add to
-                        Cart</h5>
+                    <h5 data-bs-toggle="offcanvas" data-bs-target="#adicionacart"><i class="iconly-Buy icli"></i> Adicionar
+                    </h5>
                     <span class="divider-cls">|</span>
                     <h5 data-bs-toggle="offcanvas" data-bs-target="#removecart"><i class="iconly-Delete icli"></i>
                         Remove
@@ -108,8 +108,8 @@
                     <h4>$32.00 <del>$35.00</del><span>20%</span></h4>
                 </div>
                 <div class="cart-option">
-                    <h5 data-bs-toggle="offcanvas" data-bs-target="#removecart"><i class="iconly-Buy icli"></i> Add to
-                        Cart</h5>
+                    <h5 data-bs-toggle="offcanvas" data-bs-target="#adicionacart"><i class="iconly-Buy icli"></i> Adicionar
+                    </h5>
                     <span class="divider-cls">|</span>
                     <h5 data-bs-toggle="offcanvas" data-bs-target="#removecart"><i class="iconly-Delete icli"></i>
                         Remove
@@ -131,8 +131,8 @@
                     <h4>$32.00 <del>$35.00</del><span>20%</span></h4>
                 </div>
                 <div class="cart-option">
-                    <h5 data-bs-toggle="offcanvas" data-bs-target="#removecart"><i class="iconly-Buy icli"></i>Add to
-                        Cart</h5>
+                    <h5 data-bs-toggle="offcanvas" data-bs-target="#adicionacart"><i class="iconly-Buy icli"></i>Adicionar
+                    </h5>
                     <span class="divider-cls">|</span>
                     <h5 data-bs-toggle="offcanvas" data-bs-target="#removecart"><i class="iconly-Delete icli"></i>
                         Remove
@@ -154,8 +154,7 @@
                     <h4>$32.00 <del>$35.00</del><span>20%</span></h4>
                 </div>
                 <div class="cart-option">
-                    <h5 data-bs-toggle="offcanvas" data-bs-target="#removecart"><i class="iconly-Buy icli"></i>Add to
-                        Cart</h5>
+                    <h5 data-bs-toggle="offcanvas" data-bs-target="#adicionacart"><i class="iconly-Buy icli"></i>Adicionar</h5>
                     <span class="divider-cls">|</span>
                     <h5 data-bs-toggle="offcanvas" data-bs-target="#removecart"><i class="iconly-Delete icli"></i>
                         Remove
@@ -177,8 +176,8 @@
                     <h4>$32.00 <del>$35.00</del><span>20%</span></h4>
                 </div>
                 <div class="cart-option">
-                    <h5 data-bs-toggle="offcanvas" data-bs-target="#removecart"><i class="iconly-Buy icli"></i>Add to
-                        Cart</h5>
+                    <h5 data-bs-toggle="offcanvas" data-bs-target="#adicionacart"><i class="iconly-Buy icli"></i>Adicionar
+                    </h5>
                     <span class="divider-cls">|</span>
                     <h5 data-bs-toggle="offcanvas" data-bs-target="#removecart"><i class="iconly-Delete icli"></i>
                         Remove
@@ -189,21 +188,20 @@
     </section>
     <!-- cart items end -->
 
-
     <!-- remove item canvas start -->
-    <div class="offcanvas offcanvas-bottom h-auto removecart-canvas" id="removecart">
+    <div class="offcanvas offcanvas-bottom h-auto removecart-canvas" id="adicionacart">
         <div class="offcanvas-body small">
             <div class="content">
-                <h4>Remove Item:</h4> 
-                <p>Are you sure you want to remove or move this item from the cart?</p>
+                <h4>Adicionar Item:</h4> 
+                <p> Mover este item para o carrinho?</p>
             </div>
             <div class="bottom-cart-panel">
                 <div class="row">
-                    <div class="col-7">
-                        <a href="wishlist.html" class="title-color">MOVE TO WISHLIST</a>
-                    </div>
                     <div class="col-5">
-                        <a href="#" class="theme-color">REMOVE</a>
+                        <a href="#" class="theme-color">Adicionar</a>
+                    </div>
+                    <div class="col-7">
+                        <a href="wishlist.php" class="title-color">Cancelar</a>
                     </div>
                 </div>
             </div>
@@ -211,6 +209,26 @@
     </div>
     <!-- remove item canvas end -->
 
+    <!-- remove item canvas start -->
+    <div class="offcanvas offcanvas-bottom h-auto removecart-canvas" id="removecart">
+        <div class="offcanvas-body small">
+            <div class="content">
+                <h4>Remove Item:</h4> 
+                <p>Tem certeza de que deseja remover?</p>
+            </div>
+            <div class="bottom-cart-panel">
+                <div class="row">
+                    <div class="col-5">
+                        <a href="#" class="theme-color">Remove</a>
+                    </div>
+                    <div class="col-7">
+                        <a href="wishlist.php" class="title-color">Cancelar</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- remove item canvas end -->
 
     <!-- latest jquery-->
     <script src="assets/js/jquery-3.3.1.min.js"></script>
