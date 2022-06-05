@@ -69,7 +69,7 @@
         </a>
       </li>
       <li>
-        <a href="#">
+        <a href="chat.php">
           <div class="icon">
             <i class="iconly-Chat icli"></i>
             <i class="iconly-Chat icbo"></i>

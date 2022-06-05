@@ -48,7 +48,6 @@
     </div>
     <!-- loader end -->
 
-
     <!-- header start -->
     <header>
         <div class="back-links">
@@ -68,7 +67,6 @@
         </div>
     </header>
     <!-- header end -->
-
 
     <!-- cart items start -->
     <section class="cart-section pt-0 top-space section-b-space">
