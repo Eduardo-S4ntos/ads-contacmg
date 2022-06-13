@@ -11,7 +11,7 @@
   <meta name="author" content="Conta Comigo!"> <!--autor-->
   <link rel="manifest" href="manifest.json"> <!--indica que o recurso de destino é um manifesto de aplicativo Web-->
   <link rel="icon" href="assets/images/favicon.png" type="image/x-icon" /> <!--icone da página-->
-  <title>Conta Comigo!</title>
+  <title>Meu perfil!</title>
   <link rel="apple-touch-icon" href="assets/images/favicon.png"> <!--icone da página para app apple-->
   <meta name="theme-color" content="#ff4c3b" /> <!--tema de cor-->
   <meta name="apple-mobile-web-app-capable" content="yes"> <!-- -->
@@ -150,7 +150,7 @@
         </ul>
     </div>
     <div class="px-15">
-        <a href="index.php" class="btn btn-outline w-100 content-color">LOG OUT</a>
+        <a href="login.php" class="btn btn-outline w-100 content-color">LOG OUT</a>
     </div>
     <!-- link section end -->
 

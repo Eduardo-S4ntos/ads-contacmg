@@ -10,7 +10,7 @@
     <meta name="author" content="Multikart">
     <link rel="manifest" href="manifest.json">
     <link rel="icon" href="assets/images/favicon.png" type="image/x-icon" />
-    <title>Multikart PWA App</title>
+    <title>Categorias</title>
     <link rel="icon" href="assets/images/favicon.png" type="image/x-icon" />
     <link rel="apple-touch-icon" href="assets/images/favicon.png">
     <meta name="theme-color" content="#ff4c3b" />
@@ -55,14 +55,14 @@
             <a href="index.php">
                 <i class="iconly-Arrow-Left icli"></i>
                 <div class="content">
-                    <h2>Categories</h2>
+                    <h2>Categorias</h2>
                 </div>
             </a>
         </div>
         <div class="header-option">
             <ul>
                 <li>
-                    <a href="wishlist.html"><i class="iconly-Heart icli"></i></a>
+                    <a href="wishlist.php"><i class="iconly-Heart icli"></i></a>
                 </li>
                 <li class="nav-bar">
                     <a href="cadservice.php">       

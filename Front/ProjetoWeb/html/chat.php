@@ -11,7 +11,7 @@
   <meta name="author" content="Conta Comigo!"> <!--autor-->
   <link rel="manifest" href="manifest.json"> <!--indica que o recurso de destino é um manifesto de aplicativo Web-->
   <link rel="icon" href="assets/images/favicon.png" type="image/x-icon" /> <!--icone da página-->
-  <title>Conta Comigo!</title>
+  <title>Chat!</title>
   <link rel="apple-touch-icon" href="assets/images/favicon.png"> <!--icone da página para app apple-->
   <meta name="theme-color" content="#ff4c3b" /> <!--tema de cor-->
   <meta name="apple-mobile-web-app-capable" content="yes"> <!-- -->
@@ -60,15 +60,30 @@
         </div>
     </header>
     <!-- header end -->
-    <div class="divider">
+    <section class="panel-space">
 
-    </div>
+    </section>
+    <section class="panel-space">
+
+    </section>
+    <section class="panel-space">
+
+    </section>
+    <section class="panel-space">
+
+    </section>
+    <section class="panel-space">
+
+    </section>
+    <section class="panel-space">
+
+    </section>
     
     <div class="search-panel w-back pt-3 px-15">
         <div class="search-bar">
             <input class="form-control form-theme" placeholder="">
         </div>
-        <i class="iconly-Send icli Send-icon"></i>
+        <a href="#" class="btn btn-solid"><i class="iconly-Send icli Send-icon"></i></a>
     </div>
 
     <!-- panel space start -->
