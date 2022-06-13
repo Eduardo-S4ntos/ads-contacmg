@@ -61,7 +61,7 @@
         <div class="header-option">
             <ul>
                 <li>
-                    <a href="cart.html"><i class="iconly-Buy icli"></i></a>
+                    <a href="pagina-do-pedido.html"><i class="iconly-Buy icli"></i></a>
                 </li>
             </ul>
         </div>
@@ -95,11 +95,11 @@
         <div class="divider"></div>
         <div class="cart-box px-15">
             <a href="product.html" class="cart-img">
-                <img src="assets/images/products/2.jpg" class="img-fluid" alt="">
+                <img src="assets/images/products/01.jpg" class="img-fluid" alt="">
             </a>
             <div class="cart-content">
                 <a href="product.html">
-                    <h4>Pink Hoodie t-shirt full </h4>
+                    <h4>Doceira</h4>
                 </a>
                 <h5 class="content-color">by Mango</h5>
                 <div class="price">
@@ -118,11 +118,11 @@
         <div class="divider"></div>
         <div class="cart-box px-15">
             <a href="product.html" class="cart-img">
-                <img src="assets/images/products/3.jpg" class="img-fluid" alt="">
+                <img src="assets/images/products/03.jpg" class="img-fluid" alt="">
             </a>
             <div class="cart-content">
                 <a href="product.html">
-                    <h4>Pink Hoodie t-shirt full </h4>
+                    <h4>Cabeleireiro</h4>
                 </a>
                 <h5 class="content-color">by Mango</h5>
                 <div class="price">
@@ -141,11 +141,11 @@
         <div class="divider"></div>
         <div class="cart-box px-15">
             <a href="product.html" class="cart-img">
-                <img src="assets/images/products/4.jpg" class="img-fluid" alt="">
+                <img src="assets/images/products/04.png" class="img-fluid" alt="">
             </a>
             <div class="cart-content">
                 <a href="product.html">
-                    <h4>Pink Hoodie t-shirt full </h4>
+                    <h4>Boleira</h4>
                 </a>
                 <h5 class="content-color">by Mango</h5>
                 <div class="price">
@@ -163,11 +163,11 @@
         <div class="divider"></div>
         <div class="cart-box px-15">
             <a href="product.html" class="cart-img">
-                <img src="assets/images/products/5.jpg" class="img-fluid" alt="">
+                <img src="assets/images/products/05.png" class="img-fluid" alt="">
             </a>
             <div class="cart-content">
                 <a href="product.html">
-                    <h4>Pink Hoodie t-shirt full </h4>
+                    <h4>Doceira</h4>
                 </a>
                 <h5 class="content-color">by Mango</h5>
                 <div class="price">
