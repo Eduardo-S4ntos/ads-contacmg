@@ -80,7 +80,7 @@
                 </a>
                 <h5 class="content-color">by Mango</h5>
                 <div class="price">
-                    <h4>R$80.00 <del>R$100.00</del><span>20%</span></h4>
+                    <h4>R$80,00 <del>R$100,00</del><span>20%</span></h4>
                 </div>
                 <div class="cart-option">
                     <h5 data-bs-toggle="offcanvas" data-bs-target="#adicionacart"><i class="iconly-Buy icli"></i> Adicionar
@@ -103,7 +103,7 @@
                 </a>
                 <h5 class="content-color">by Mango</h5>
                 <div class="price">
-                    <h4>$32.00 <del>$35.00</del><span>20%</span></h4>
+                    <h4>R$13,50 <del>$15,00</del><span>10%</span></h4>
                 </div>
                 <div class="cart-option">
                     <h5 data-bs-toggle="offcanvas" data-bs-target="#adicionacart"><i class="iconly-Buy icli"></i> Adicionar
@@ -126,7 +126,7 @@
                 </a>
                 <h5 class="content-color">by Mango</h5>
                 <div class="price">
-                    <h4>$32.00 <del>$35.00</del><span>20%</span></h4>
+                    <h4>R$120,00 <del>R$150,00</del><span>20%</span></h4>
                 </div>
                 <div class="cart-option">
                     <h5 data-bs-toggle="offcanvas" data-bs-target="#adicionacart"><i class="iconly-Buy icli"></i>Adicionar
@@ -149,7 +149,7 @@
                 </a>
                 <h5 class="content-color">by Mango</h5>
                 <div class="price">
-                    <h4>$32.00 <del>$35.00</del><span>20%</span></h4>
+                    <h4>R$54,00 <del>R$60,00</del><span>10%</span></h4>
                 </div>
                 <div class="cart-option">
                     <h5 data-bs-toggle="offcanvas" data-bs-target="#adicionacart"><i class="iconly-Buy icli"></i>Adicionar</h5>
@@ -171,7 +171,7 @@
                 </a>
                 <h5 class="content-color">by Mango</h5>
                 <div class="price">
-                    <h4>$32.00 <del>$35.00</del><span>20%</span></h4>
+                    <h4>R$13,50 <del>R$15,00</del><span>10%</span></h4>
                 </div>
                 <div class="cart-option">
                     <h5 data-bs-toggle="offcanvas" data-bs-target="#adicionacart"><i class="iconly-Buy icli"></i>Adicionar
